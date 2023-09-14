@@ -1,6 +1,7 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## Hi there, I'm Juan 👋
+<hr/>
+<img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanantoniov&hide=html,css&theme=radical&layout=compact" />
+<img align="right" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=juanantoniov&show_icons=true&theme=radical" />
 
 <!--
 **JuanAntonioV/JuanAntonioV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
