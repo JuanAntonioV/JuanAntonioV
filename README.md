@@ -1,8 +1,3 @@
-## Hi there, I'm Juan 👋
-<hr/>
-<img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanantoniov&hide=html,css&theme=radical&layout=compact" />
-<img align="right" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=juanantoniov&show_icons=true&theme=radical" />
-
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a dedicated Fullstack Developer committed to creating innovative technology solutions and solving problems through software development. I have extensive experience in building web and possess a strong understanding of the entire technology stack required to deliver high-quality products.</h3>
 
@@ -32,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanantoniov&show_icons=true&locale=en" alt="juanantoniov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanantoniov&" alt="juanantoniov" /></p>
+
+<img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanantoniov&hide=html,css&theme=radical&layout=compact" />
+<img align="right" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=juanantoniov&show_icons=true&theme=radical" />
