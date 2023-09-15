@@ -130,8 +130,6 @@
     <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanantoniov&hide=html,css&theme=radical&layout=compact" />
   </div>
   <br/>
-  <br/>
-
 </div>
 
   <a rel="me" href="https://www.linkedin.com/in/juan-antonio-vivaldy-saragih-b54b93237">
