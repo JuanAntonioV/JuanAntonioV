@@ -12,7 +12,7 @@
     </a>
   </div>
 </div>
-<h1 align="center">Hi there, I'm Juan Antonio <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1 align="center">Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Juan Antonio</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a dedicated Fullstack Developer committed to creating innovative technology solutions and solving problems through software development.</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juanantoniov&label=Profile%20views&color=yellow&style=for-the-badge" alt="juanantoniov" /> </p>
