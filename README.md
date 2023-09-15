@@ -132,5 +132,8 @@
   <br/>
   <br/>
 
-  <a rel="me" href="https://www.linkedin.com/in/juan-antonio-vivaldy-saragih-b54b93237">Follow me on Linkedin</a>
 </div>
+
+  <a rel="me" href="https://www.linkedin.com/in/juan-antonio-vivaldy-saragih-b54b93237">
+    <p align="right" >Follow me on Linkedin</p>
+  </a>
