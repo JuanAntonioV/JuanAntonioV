@@ -15,8 +15,6 @@
 <h1 align="center">Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Juan Antonio</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a dedicated Fullstack Developer committed to creating innovative technology solutions and solving problems through software development.</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanantoniov&label=Profile%20views&color=yellow&style=for-the-badge" alt="juanantoniov" /> </p>
-<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanantoniov&margin-h=20&margin-w=20&theme=dracula&row=1" alt="juanantoniov" /></a> </p>
 
 <br/>
@@ -35,8 +33,9 @@
   - 💬 Ask me about **React, Vue, NextJS, or maybe some jobs**
   
   - ⚡ Fun fact **I loved 🥛 and build amazing thing from beginning**
-  
-  <br/>
+
+<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=juanantoniov&label=Profile%20views&color=yellow&style=for-the-badge" alt="juanantoniov" /> </p>
   
   ## :hammer_and_wrench: Languages and Tools :
 
