@@ -15,9 +15,9 @@
 <h1 align="center">Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Juan Antonio</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a dedicated Fullstack Developer committed to creating innovative technology solutions and solving problems through software development.</h3>
 <br/>
-// <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanantoniov&margin-h=20&margin-w=20&theme=dracula&row=1" alt="juanantoniov" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanantoniov&margin-h=20&margin-w=20&theme=dracula&row=1" alt="juanantoniov" /></a> </p> -->
 
-<br/>
+<!-- <br/> -->
   
 <div align="left">
   
