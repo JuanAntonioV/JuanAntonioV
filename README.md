@@ -121,7 +121,7 @@
   <br/>
   
   <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanantoniov&theme=dark" alt="juanantoniov" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=JuanAntonioV&theme=dark&mode=weekly" alt="juanantoniov" />
   </div>
   
   <br/>
