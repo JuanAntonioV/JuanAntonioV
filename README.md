@@ -26,7 +26,7 @@
   
   - 🔭 I’m currently working on [Dealjava](https://dealjava.com)
   
-  - 🌱 I’m currently learning **NextJS, Flutter, React Native, NuxtJS, Golang**
+  - 🌱 I’m currently learning **Golang & Flutter**
   
   - 👨‍💻 All of my projects are available at [My Portfolio Website](https://juanantoniovivaldy.vercel.app)
   
@@ -45,6 +45,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react" width="50" height="50"/>
   </a>
   &nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor" alt="nextjs" width="50" height="50"/>
+  </a>
+  &nbsp;
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
@@ -54,23 +62,11 @@
   </a>
   &nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="nextjs" width="50" height="50"/>
+    <img src="https://icongr.am/devicon/laravel-plain.svg?size=50&color=currentColor" alt="laravel" width="50" height="50"/>
   </a>
   &nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
   </a>
   &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -85,14 +81,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50"/>
   </a>
   &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-  &nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
   </a>
@@ -100,19 +88,22 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
   </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+ &nbsp;
+  <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="zustand" width="50" height="50"/>
   </a>
   &nbsp;
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
   </a>
   &nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+  <a href="https://vitest.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="vitest" width="50" height="50"/>
   </a>
-  
+   &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
   <br/>
   <br/>
   
