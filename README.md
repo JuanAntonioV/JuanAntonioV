@@ -46,7 +46,7 @@
   </a>
   &nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor" alt="nextjs" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
   </a>
   &nbsp;
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
   </a>
   &nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://icongr.am/devicon/laravel-plain.svg?size=50&color=currentColor" alt="laravel" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/>
   </a>
   &nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
