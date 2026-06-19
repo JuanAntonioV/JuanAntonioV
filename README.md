@@ -24,7 +24,7 @@
   ## :woman_technologist: About Me :
   
   
-  - 🔭 I’m currently working on [Dealjava](https://dealjava.com)
+  - 🔭 I’m currently working on [Capella Multidana](https://capellamultidana.com)
   
   - 🌱 I’m currently learning **Golang & Flutter**
   
